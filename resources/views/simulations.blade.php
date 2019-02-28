@@ -385,6 +385,7 @@
             <div class="col-md-4">
                 <div class="col-md-7">
                     <label>Length of Time (Minutes):</label>
+                    <p>(1 sec = 1 min)</p>
                 </div>
                 <div class="col-md-1">
                     <input type="number" name="time" id="time" value="1" min="1" max="1000" style="width: 50px;">
